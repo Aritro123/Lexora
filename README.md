@@ -1,1 +1,1 @@
-# ai-chatbot-client
+# Lexora
